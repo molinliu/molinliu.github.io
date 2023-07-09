@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a postgraduate student from [Department of Industrial Engineering and Management](https://ieem.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My research interest includes operations research, combinatorial optimization and price optimization.
+I'm currently a postgraduate student from [Department of Industrial Engineering and Management](https://ieem.sjtu.edu.cn/en/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My research interest includes operations research, combinatorial optimization and price optimization.
 
 A data-driven personal website
 ======
