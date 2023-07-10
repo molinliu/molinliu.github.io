@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Machine-fixture-pallet constrained flexible job shop intelligent scheduling (in Chinese)"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Research on multire-source flexible job shop intelligent scheduling that considers fixture–pallet combination optimization is proposed to address the productivity restriction problem caused because of limited fixture–pallet resources in multiproduct mixed manufacturing workshops. First, a mixed integer linear programming model with machine–fixture–pallet constraints is created with the goal of minimizing the makespan. Then, an improved genetic algorithm hybrid with a feasibility correction strategy and self-learning variable neighborhood search (VNS) is proposed to solve the problem. The feasibility correction strategy is designed to solve the potential conflicts of chromosome structure, and the VNS repository is constructed in the semilate period of iterations, which helps in finding a better solution. The effectiveness and efficiency of the proposed algorithm are demonstrated using computational experiments based on industrial big data, which would provide convincing intelligent support for actual production scheduling with constrained resources.'
+date: 2023-06-13
+venue: 'Science China Technological Sciences, 2023'
+paperurl: 'http://molinliu.github.io/files/sciengine.pdf'
+citation: 'Molin Liu, Yulu Zhou, Siyang Wang, Chunming Zhang, Shichang Du, Lifeng Xi. Machine-fixture-pallet constrained flexible job shop intelligent scheduling (in Chinese), Science China Technological Sciences, 2023'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Research on multire-source flexible job shop intelligent scheduling that considers fixture–pallet combination optimization is proposed to address the productivity restriction problem caused because of limited fixture–pallet resources in multiproduct mixed manufacturing workshops. First, a mixed integer linear programming model with machine–fixture–pallet constraints is created with the goal of minimizing the makespan. Then, an improved genetic algorithm hybrid with a feasibility correction strategy and self-learning variable neighborhood search (VNS) is proposed to solve the problem. The feasibility correction strategy is designed to solve the potential conflicts of chromosome structure, and the VNS repository is constructed in the semilate period of iterations, which helps in finding a better solution. The effectiveness and efficiency of the proposed algorithm are demonstrated using computational experiments based on industrial big data, which would provide convincing intelligent support for actual production scheduling with constrained resources.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://molinliu.github.io/files/sciengine.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Molin Liu, Yulu Zhou, Siyang Wang, Chunming Zhang, Shichang Du, Lifeng Xi. Machine-fixture-pallet constrained flexible job shop intelligent scheduling (in Chinese), Science China Technological Sciences, 2023.
