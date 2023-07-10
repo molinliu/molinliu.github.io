@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "You can find my CV:"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV:
-======
 * [Here](http://molinliu.github.io/files/CV.pdf)
 
