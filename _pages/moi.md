@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
+permalink: /moi/
 title: "About me"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /moi.html
 ---
 
 ## Education
