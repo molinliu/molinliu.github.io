@@ -3,7 +3,7 @@ permalink: /moi/
 title: "About me"
 author_profile: true
 redirect_from: 
-  - /md/
+  - /moi/
   - /moi.html
 ---
 
