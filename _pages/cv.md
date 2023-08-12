@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-* [Here](http://molinliu.github.io/files/CV.pdf)
+* [Here](http://molinliu.github.io/files/CV_MolinLIU.pdf)
 
