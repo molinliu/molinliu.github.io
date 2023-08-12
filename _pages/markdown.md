@@ -1,202 +1,62 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## Education
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* **Shanghai Jiao Tong University (SJTU)**, Shanghai, 2021.09 - 2024.03
+  * Currently pursuing a _master's degree_ in Industrial Engineering and Management.
+  * Studied _advanced operations research_, _advanced statistics_ and _matrix theory_.
+  * Total GPA of **3.82/4.00**, ranking **6/44**.
+* **Centrale Supélec (CS) - Université Paris-Saclay**, Paris, 2019.08 - 2021.06
+  * Participated in the _Sino-French 4+4 Program_ and went to CS as a **Double Diploma** student.
+  * Studied _Optimization (A+)_, _Machine Learning (A)_ and _Economics of Innovation and Growth (A+)_.
+  * Successfully fulfilled the program requirements and anticipated graduation with an engineering degree in 2024.
+* **Shanghai Jiao Tong University (SJTU)**, Shanghai, 2016.09 - 2021.06
+  * Received a _bachelor's degree_ in Industrial Engineering and Management.
+  * Memeber of _ZhiYuan Honors Program of Engineering_, studied _Mathematical Analysis (Honor)_ and _Physics (Honor)_.
+  * TOtal GPA of **3.69/4.30**, ranking **71/469**.
 
-## Tips and hints
+## Research Experiences
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+* **Operations Research Internship at Alibaba Group**, 2023.06 - 2023.09
+  * Investigated classic and frontier research methods in the field of **price optimisation**, covering economic modelling,
+causal inference, integer programming and robust optimization.
+  * Proposed a methodology to handle with the **multi-threshold incentive allocation problem** for takeaway riders, where
+a robust integer programming model was formulated with key parameters predicted by causal inference.
+  * Mitigated the shortage of riders in prominent space-time zones of various cities in China under limited incentive cost.
+* **Intelligent Production Scheduling Program**, 2021.07 - 2023.06
+  * Cooperated with a leading domestic engine manufacturer to develop a set of **intelligent production scheduling**
+algorithms for the advanced planning and scheduling system in its _New Product Development Center_.
+  * The algorithms realized: pre-scheduling and order splitting to meet resource constraints; advanced static schedul-
+ing suitable for highly flexible production scenarios; dynamic scheduling for various exceptional situations
+  * Workshop management efficiency was effectively improved and management costs were highly reduced.
+* **Flexible Job Shop Scheduling Problem (FJSP) with Fixture-pallet Constraints**, 2022.06 - 2023.02
+  * Formulated a mixed integer programming model to solve **FJSP with multi-resource constraints**, aiming to minimize
+makespan and find optimal fixture-pallet combination mode simultaneously.
+  * Proposed a feasibility repair strategy to address potential coupling conflicts between machines and fixtures and
+designed a self-learning variable neighbourhood search to further improve algorithm performance.
+  * Proved the effectiveness and efficiency of the proposed algorithms by cases derived from real production scenarios.
+* **Operations Research Internship at Cardinal Operations**, 2022.10 - 2023.01
+  * Participated in **Shanghai Metro Maintenance Scheduling Program**.
+  * Developed a heuristic algorithm for overhaul scheduling of entire metro network, which incorporated factors such as contractor’s maintenance capacity, minimum operational requirements for each line, and maintenance interval.
+  * An optimal metro repair plan could be made within minutes, reducing the maintenance costs.
+* **Airline Crew Scheduling Problem**, 2021.09 - 2021.10
+  * Developed a mixed integer programming model, considering complex factors such as crew members’ qualifications, crew member bases, flight assignments, flight duration, destinations, task dependencies, and other constraints.
+  * Utilized the Gurobi solver to perform modeling and optimization, and devised a heuristic algorithm based on greedy and depth-first search, whose efficiency and accuracy were validated through numerical experiments.
+  * Awarded the **Second Prize (Top 12.29%)** in the _18th ”Huawei Cup” Graduate Mathematical Modeling Competition_.
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
 
-## Markdown guide
+## Awards and Honors
 
-### Header three
+* **Samsung Scholarship**, Shanghai Jiao Tong University, 2022.
+* **First Class Postgraduate Academic Scholarship**, Shanghai Jiao Tong University, 2022.
+* **Second Prize (Top 12.29%)** in 18th ”Huawei Cup” Graduate Mathematical Modeling Competition, 2021.
+* **Scholarship of China Scholarship Council (CSC)**, Centrale Supélec, 2019 - 2021.
+* **Zhiyuan Honors Scholarship**, Shanghai Jiao Tong University, 2017/2018/2019/2020.
 
-#### Header four
-
-##### Header five
-
-###### Header six
-
-## Blockquotes
-
-Single line blockquote:
-
-> Quotes are cool.
-
-## Tables
-
-### Table 1
-
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-
-### Table 2
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
-
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
-
-## HTML Tags
-
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "Github").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
