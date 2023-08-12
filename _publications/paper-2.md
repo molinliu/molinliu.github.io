@@ -3,5 +3,9 @@ title: "Working paper: Multi-objective optimization of flexible job shop schedul
 collection: publications
 permalink: /publication/paper-2
 excerpt: 'This is a research-in-progress paper.'
+date: 
+venue: 
+paperurl: 
+citation: 
 ---
 
