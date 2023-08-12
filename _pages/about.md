@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a postgraduate student from [Department of Industrial Engineering and Management](https://ieem.sjtu.edu.cn/en/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), where I also received my bachelor's degree in 2021. From 2019 to 2021, I studied at [Université Paris-Saclay Centrale Supélec](https://www.centralesupelec.fr) as a double diplome student.
+I'm currently a _postgraduate student_ from [Department of Industrial Engineering and Management](https://ieem.sjtu.edu.cn/en/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn), where I received my _bachelor's degree_ in 2021. 
+From 2019 to 2021, I studied at [Ecole Centrale Supélec](https://www.centralesupelec.fr) as a _double diplome student_.
 
-My research interests are within the field of operations research, mathematical modeling and combinatorial optimization. I am particularly interested in scheduling problems which arise from manufacturing system and maintenance system, such as the flexible job shop scheduling and metro maintenance scheduling. And I am currently exploring the price optimization problem with uncertainty.
+My research interests are within the field of _operations research_, _mathematical modeling_ and _combinatorial optimization_. I am particularly interested in scheduling problems which arise from manufacturing system and maintenance system, such as the flexible job shop scheduling and metro maintenance scheduling. And I am currently exploring the price optimization problem with uncertainty.
 
 Contact
 ------
