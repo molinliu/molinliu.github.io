@@ -27,9 +27,9 @@ redirect_from:
 * **Operations Research Internship at Alibaba Group**, 2023.06 - 2023.09
   * Investigated classic and frontier research methods in the field of **price optimisation**, covering economic modelling,
 causal inference, integer programming and robust optimization.
-  * Proposed a methodology to handle with the **multi-threshold incentive allocation problem** for takeaway riders, where
-a robust integer programming model was formulated with key parameters predicted by causal inference.
-  * Mitigated the shortage of riders in prominent space-time zones of various cities in China under limited incentive cost.
+  * Proposed a novel methodology to handle with the **multi-threshold incentive allocation problem** targeting on takeaway riders, where
+an integer programming model with limited elasticity data was formulated and simplified.
+  * Attempted **robust optimization** with ellipsoidal uncertainty sets to address the uncertainty of predicted parameters.
 * **Intelligent Production Scheduling Program**, 2021.07 - 2023.06
   * Cooperated with a leading domestic engine manufacturer to develop a set of **intelligent production scheduling**
 algorithms for the advanced planning and scheduling system in its _New Product Development Center_.
@@ -43,7 +43,7 @@ makespan and find optimal fixture-pallet combination mode simultaneously.
 designed a self-learning variable neighbourhood search to further improve algorithm performance.
   * Proved the effectiveness and efficiency of the proposed algorithms by cases derived from real production scenarios.
 * **Operations Research Internship at Cardinal Operations**, 2022.10 - 2023.01
-  * Participated in **Shanghai Metro Maintenance Scheduling Program**.
+  * Participated in **Shanghai Metro Maintenance Scheduling Program** and got familiar with existing algorithm logic.
   * Developed a heuristic algorithm for overhaul scheduling of entire metro network, which incorporated factors such as contractor’s maintenance capacity, minimum operational requirements for each line, and maintenance interval.
   * An optimal metro repair plan could be made within minutes, reducing the maintenance costs.
 * **Airline Crew Scheduling Problem**, 2021.09 - 2021.10
