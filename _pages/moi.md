@@ -11,15 +11,15 @@ redirect_from:
 
 * **Shanghai Jiao Tong University (SJTU)**, Shanghai, 2021.09 - 2024.03
   * Currently pursuing a _master's degree_ in Industrial Engineering and Management.
-  * Studied _advanced operations research_, _advanced statistics_ and _matrix theory_.
+  * Studied _advanced operations research (A-)_, _advanced statistics (A-)_ and _production and operations analysis (A)_.
   * Total GPA of **3.82/4.00**, ranking **6/44**.
 * **Centrale Supélec (CS) - Université Paris-Saclay**, Paris, 2019.08 - 2021.06
-  * Participated in the _Sino-French 4+4 Program_ and went to CS as a **Double Diploma** student.
+  * Enrolled in the _Sino-French 4+4 Double Diploma Program_ at CS.
   * Studied _Optimization (A+)_, _Machine Learning (A)_ and _Economics of Innovation and Growth (A+)_.
-  * Successfully fulfilled the program requirements and anticipated graduation with an engineering degree in 2024.
+  * Fulfilled the program requirements and anticipated graduation with an engineering degree in 2024.
 * **Shanghai Jiao Tong University (SJTU)**, Shanghai, 2016.09 - 2021.06
-  * Received a _bachelor's degree_ in Industrial Engineering and Management.
-  * Memeber of _ZhiYuan Honors Program of Engineering_, studied _Mathematical Analysis (Honor)_ and _Physics (Honor)_.
+  * Memeber of _ZhiYuan Honors Program of Engineering_, received a _bachelor's degree_ in Industrial Engineering.
+  * Studied _Mathematical Analysis (Honor, A-)_, _Physics (Honor, A+)_, _Linear Algebra (A)_ and _Engineering Economics (A)_.
   * TOtal GPA of **3.69/4.30**, ranking **71/469**.
 
 ## Research Experiences
@@ -49,14 +49,14 @@ designed a self-learning variable neighbourhood search to further improve algori
 * **Airline Crew Scheduling Problem**, 2021.09 - 2021.10
   * Developed a mixed integer programming model, considering complex factors such as crew members’ qualifications, crew member bases, flight assignments, flight duration, destinations, task dependencies, and other constraints.
   * Utilized the Gurobi solver to perform modeling and optimization, and devised a heuristic algorithm based on greedy and depth-first search, whose efficiency and accuracy were validated through numerical experiments.
-  * Awarded the **Second Prize (Top 12.29%)** in the _18th ”Huawei Cup” Graduate Mathematical Modeling Competition_.
+  * Awarded the **Second Prize (Top 10%)** in the _18th ”Huawei Cup” Graduate Mathematical Modeling Competition_.
 
 
 ## Awards and Honors
 
 * **Samsung Scholarship**, Shanghai Jiao Tong University, 2022.
 * **First Class Postgraduate Academic Scholarship**, Shanghai Jiao Tong University, 2022.
-* **Second Prize (Top 12.29%)** in 18th ”Huawei Cup” Graduate Mathematical Modeling Competition, 2021.
+* **Second Prize** in 18th ”Huawei Cup” Graduate Mathematical Modeling Competition, 2021.
 * **Scholarship of China Scholarship Council (CSC)**, Centrale Supélec, 2019 - 2021.
-* **Zhiyuan Honors Scholarship**, Shanghai Jiao Tong University, 2017/2018/2019/2020.
+* **Zhiyuan Honors Scholarship (Top 10%)**, Shanghai Jiao Tong University, 2017/2018/2019/2020.
 
