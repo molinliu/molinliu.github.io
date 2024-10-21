@@ -2,9 +2,3 @@
 main:
   - title: "About me"
     url: /moi/
-    
-  - title: "Publications"
-    url: /publications/    
-    
-  - title: "CV"
-    url: /cv/
