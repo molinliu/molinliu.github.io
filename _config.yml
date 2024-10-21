@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "molinliu"
+  github           : # "molinliu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/molin-liu-71907319b/"
-  orcid            : "https://orcid.org/0009-0008-0319-6316"
+  linkedin         : "molin-liu-71907319b/"
+  orcid            : # "https://orcid.org/0009-0008-0319-6316"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
