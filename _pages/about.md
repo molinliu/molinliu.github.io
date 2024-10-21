@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a PhD student in [Technology and Operations Management](https://www.insead.edu/phd/academics-and-research/technology-operations-management), INSEAD.
+Hi, I'm Molin, a PhD student in [Technology and Operations Management](https://www.insead.edu/phd/academics-and-research/technology-operations-management), INSEAD.
 
 My current research interests lie in revenue management and pricing optimization, sustainable operations management, decision-making under uncertainty, and data-driven optimization.
 
