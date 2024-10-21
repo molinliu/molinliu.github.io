@@ -35,6 +35,10 @@ causal inference, and robust optimization.
   * Participated in **Shanghai Metro Maintenance Scheduling Program** and developed a heuristic algorithm for overhaul scheduling of entire metro network, accounting for contractor capacity, operational requirements, and maintenance interval.
   * An optimal metro repair plan could be made within minutes, reducing the maintenance costs.
 
+## Publications
+* _Molin Liu_, Jun Lv, Shichang Du, Yafei Deng, Xiaoxiao Shen, Yulu Zhou. [Multi-resource constrained flexible job shop scheduling problem with fixture-pallet combinatorial optimisation](https://www.sciencedirect.com/science/article/pii/S036083522400024X). Computers & Industrial Engineering, 2024.
+* Yulu Zhou, Shichang Du, _Molin Liu_, Xiaoxiao Shen. [Machine-fixture-pallet resources constrained flexible job shop scheduling considering loading and unloading times under pallet automation system](https://www.sciencedirect.com/science/article/pii/S0278612524000207). Journal of Manufacturing Systems, 2024.
+
 
 ## Awards and Honors
 
