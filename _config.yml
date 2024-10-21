@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Molin LIU (刘墨林)"
 title_separator          : "-"
 name                     : &name "Molin LIU"
-description              : &description "postgraduate student, Shanghai Jiao Tong University"
+description              : &description "PhD student, INSEAD"
 url                      : https://molinliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "molinliu/molinliu.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Molin LIU"
   avatar           : "molin.png"
-  bio              : "postgraduate student, Shanghai Jiao Tong University"
-  location         : "Shanghai, China"
+  bio              : "PhD student, INSEAD"
+  location         : "Fontainebleau, France"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=z4XxpkYAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/molin-liu-71907319b/"
   orcid            : "https://orcid.org/0009-0008-0319-6316"
   pinterest        :
   soundcloud       :
