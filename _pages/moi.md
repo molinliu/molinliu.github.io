@@ -1,6 +1,6 @@
 ---
 permalink: /moi/
-title: "About me"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /md/
