@@ -8,17 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a _postgraduate student_ from [Department of Industrial Engineering and Management](https://ieem.sjtu.edu.cn/en/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn), where I received my _bachelor's degree_ in 2021. 
-From 2019 to 2021, I studied at [Ecole Centrale Supélec](https://www.centralesupelec.fr) as a _double diplome student_.
+I'm currently a PhD student in [Technology and Operations Management](https://www.insead.edu/phd/academics-and-research/technology-operations-management), INSEAD.
 
-My research interests are within the field of _operations research_, _mathematical modeling_ and _combinatorial optimization_. I am particularly interested in scheduling problems which arise from manufacturing system and maintenance system, such as the flexible job shop scheduling and metro maintenance scheduling. And I am currently exploring the price optimization problem with uncertainty.
+My current research interests lie in revenue management and pricing optimization, sustainable operations management, decision-making under uncertainty, and data-driven optimization.
 
 Contact
 ------
-Mechanical Buildling B, Department of Industrial Engineering and Management
-
-Shanghai Jiao Tong University
-
-800 Dongchuan Road, Shanghai 200240
-
-Email: toujours.molin@sjtu.edu.cn
+Email: molin.liu@insead.edu.cn
