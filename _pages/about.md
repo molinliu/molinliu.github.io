@@ -17,4 +17,4 @@ My current reasearch interests lie in revenue management and pricing optimizatio
 
 Contact
 ------
-Email: molin.liu@insead.edu.cn
+Email: molin.liu@insead.edu
